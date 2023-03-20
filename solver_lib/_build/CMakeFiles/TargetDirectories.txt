@@ -1,0 +1,3 @@
+/home/masha/lab-03/solver_lib/_build/CMakeFiles/solver_lib.dir
+/home/masha/lab-03/solver_lib/_build/CMakeFiles/edit_cache.dir
+/home/masha/lab-03/solver_lib/_build/CMakeFiles/rebuild_cache.dir
