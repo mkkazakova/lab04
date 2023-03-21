@@ -94,7 +94,7 @@ jobs:
     run: cmake ${{github.workspace}}/hello_world_application/ -B ${{github.workspace}}/hello_world_application/build
 
   - name: Build HelloWorld
-    run: cmake --build ${{github.workspace}}/hello_world_application/buildс
+    run: cmake --build ${{github.workspace}}/hello_world_application/build
     # Запускаем HelloWorld
 ```
 
