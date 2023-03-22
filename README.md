@@ -1,6 +1,6 @@
 # lab04
 
-## Подготовка
+## Подготовкаff
 
 ```
 $ sudo apt install git
